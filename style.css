@@ -1,0 +1,13 @@
+#map { height: 500px;
+width: 500px;
+}
+.issMap{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-image: url("image/StarWarsAll.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
